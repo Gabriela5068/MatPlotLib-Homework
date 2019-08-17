@@ -1,0 +1,5 @@
+MatPlot Lib Homework Trends
+1. As demand for pyber increases, the average fare decreases. This means that in rural cities where one can assume there is a larger population and you see a greater number of rides you also see a lower average of fare cost. 
+2. Trend observed in the point#1 is not a linear trend; the lowest average fare cost is not attributed to the largest number of rides in the urban city. This can translate that at a certain demand of rides there starts to be a shortage of supply and the average fare increases once again. 
+3. Urban Data as seen in the scatter plot shows a tight average fare range, where the approx. fare range is around $25. Thus, averages presented have a small standard deviation. Thus, it is a more stable market and it is more favorable to start Pyber in an urban area. 
+
